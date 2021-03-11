@@ -1,0 +1,38 @@
+body {
+	background-color: #FAEEE5;
+	margin: 50px;
+}
+
+h1 {
+	color: #FAEEE5;
+	font-family: serif;
+	font-size: 50px;
+	font-style: oblique;
+}
+
+h2 {
+	font-family: monospace;
+	font-size: 30px;
+}
+
+h3 {
+	font-family: monospace;
+	font-size: 20px;
+}
+
+.header {
+	padding: 20px;
+	background-color: #660000;
+	color: #FAEEE5;
+	text-align: center;
+	border-radius: 50px;
+}
+
+.content {
+	padding: 20px;
+	border-style: solid;;
+	border-color: #660000;
+	color: #660000;
+	text-align: center;
+	border-radius: 50px;
+}
